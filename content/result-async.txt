@@ -1,0 +1,3 @@
+Hello world. This is new file.
+        Content of first file: Hi there. This is first file.
+        Content of second file: What's up y'all. This is second file.

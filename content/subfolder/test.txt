@@ -1,0 +1,51 @@
+Hey there. This is just a test for nodejs course. I will note my summary and core ideas of each topic in here. That will help to have good understanding and wrap up concepts in mind.
+
+*** How to deal with new concepts? ***
+    + Try to understand concepts in first attempt
+    + Read materials to have overview
+    + Follow to practice code
+    + Raise questions to use concepts in multiple ways
+    + Wrapup to understand functions and features of concepts
+    + Repeat if not clear
+
+*** I am taking a detour to learn about Git ***
+    + Will get it done today Apr 16 2022
+    + Learning sources: teamtreehouse ( I have an account with them. They have solid tutorial, practical and break down concepts. Good to practice specific skills or concepts.)
+    
+*** How to learn quicker ***
+    + How do you feel?
+        @ Little holding back. Doing it like a mandate task.
+        @ Not excited about the content. Try to learn as much as possible. But feel down when look at the process.
+        @ Feeling down helping to achieve the goal? => No
+    + What are expectations?
+        @ No expectations should've been set. Apply present meditation skills to stay focus and get rid off fixed expectations.
+    + What are negative thought or holding back feeling?
+        @ Feel little bit down for not ace the goal.
+        @ Feel down when still long way to get to the second stages.
+        @ Feel hopeless to use skills have been learned for good and to achieve goals.
+    + Is it appropriate or good to peek to teacher notes?
+        @ Advantages: know the content of the video.
+        @ Disadvantages:    - overwhelm by content
+                            - takes time
+                            - might not understand and feel down.
+        => Skim the title of video and the content but not more than 10 seconds. 
+        => Understand teacher note. If there are any note help to understand better or practice. It is fine to pay attention. If teacher note just repeat the content on video, no need read line by line. Skim is enough.
+    + What is a great mindset to approach new concepts?
+        + Should I set expectations to ace new concepts?
+            @ Yes: Set a goal and focus on present. Check the goal after learn, watch and practice.
+            @ No : put pressure on shoulder.
+    + Is this ok to have an overview of the course?
+        + What is the reason to view the course stages?
+            @ To know how far it has been done
+            @ To prepare or have overview of the next content
+        => It is fine to overview the course stages. But do not let them overwhelm. It is obvious that thinking ahead or worry about the outcome not help to learn quicker and create better results.
+* Path module: is a way to locate a file or absolute path to a file, folder
+    + Path is use to locate file path, folder path. There are many ways to interact with path module
+    + Path has few methos. Two of them are "basename", "join" and "resolve".
+    + There are syntax to learn but it is not complicated and example can be located on "9-path-module.js".
+
+* File module: is a way to interact with file.
+    + File can be read, write and append. There are many functions or methods to use with file.
+    + Syntax can be found on "10-fs-sync.js" or "11-fs-async.js"
+    + There two main differences between file synchronus and asynchronus.
+    + It also introduces callback function hell in async file handle. 
